@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/a_Logout",
+      "brokenLocator": "//section[@id\u003d\u0027profile\u0027]/div/div/div/p[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Make Appointment\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240805_183418/HerokuappTestSuite/20240805_183418/Object Repository/Page_CURA Healthcare Service/a_Logout_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/a_Go to Homepage",
+      "brokenLocator": "//section[@id\u003d\u0027summary\u0027]/div/div/div[7]/p/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Go to Homepage\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240805_183418/HerokuappTestSuite/20240805_183418/Object Repository/Page_CURA Healthcare Service/a_Go to Homepage_link.png"
+    }
+  ]
+}

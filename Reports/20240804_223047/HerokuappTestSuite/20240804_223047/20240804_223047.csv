@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HerokuappTestSuite,,,,04-08-2024 22:31:02,04-08-2024 22:31:08,6.686s,FAILED
+,,,,,,,
+Test Cases/Login,,,,04-08-2024 22:31:06,04-08-2024 22:31:06,0.185s,FAILED
+"openBrowser("""")",,,,04-08-2024 22:31:06,04-08-2024 22:31:06,0.080s,FAILED
+,,,,,,,
+Test Cases/Make-an-Appointment,,,,04-08-2024 22:31:07,04-08-2024 22:31:07,0.170s,FAILED
+"openBrowser("""")",,,,04-08-2024 22:31:07,04-08-2024 22:31:07,0.082s,FAILED
+,,,,,,,
+Test Cases/Verify-Menu-Items,,,,04-08-2024 22:31:08,04-08-2024 22:31:08,0.145s,FAILED
+"openBrowser("""")",,,,04-08-2024 22:31:08,04-08-2024 22:31:08,0.059s,FAILED
